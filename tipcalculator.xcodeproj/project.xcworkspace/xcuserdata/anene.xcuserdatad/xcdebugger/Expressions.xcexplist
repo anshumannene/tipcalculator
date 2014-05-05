@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TipViewController updateValues]:TipViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SettingsViewController viewDidLoad]:SettingsViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
